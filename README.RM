@@ -1,4 +1,7 @@
 Usage: 
+1. run clipboardcontrol.lua in AutoTouch
+
+2. you can click,run,input text as what you want
 bash paste.sh "---text:hello"  # input text 
 bash paste.sh "---click:10,100"  # click x=10,y=100 point
 bash paste.sh "---run:com.test.test" # run com.test.test app
