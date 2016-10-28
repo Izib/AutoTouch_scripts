@@ -1,0 +1,5 @@
+Usage: 
+bash paste.sh "---text:hello"  # input text 
+bash paste.sh "---click:10,100"  # click x=10,y=100 point
+bash paste.sh "---run:com.test.test" # run com.test.test app
+bash paste.sh "---kill:com.test.test" # kill com.test.test app
